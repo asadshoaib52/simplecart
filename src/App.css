@@ -24,6 +24,37 @@
   color: white;
 }
 
+
+.TableCenter1{ 
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+
+
+}
+
+.TableTD1{ 
+  padding: 20px;
+  
+
+  }
+
+  tr{
+    
+  }
+
+  th{
+    padding: 40px;
+    border: solid;
+  }
+
+td{
+  padding: 40px;
+  border-top: solid;
+  border-right: solid;
+  
+}
+
 .App-link {
   color: #61dafb;
 }
