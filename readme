@@ -1,0 +1,5 @@
+This shooping cart is prepared by using Nodejs, React, Mongoose, Excess and MongoDBAtlas.
+
+* After cloning the repository, you have to navigate to backend folder through terminal, and start backend server in local maching by typing command "nodemon server".
+
+* After that return to root directory and write command npm start to run the front end on your browser.
